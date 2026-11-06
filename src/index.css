@@ -1,0 +1,84 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-bebas: 'Bebas Neue', sans-serif;
+    --font-cinzel: 'Cinzel', serif;
+    --font-montserrat: 'Montserrat', sans-serif;
+  }
+  
+  body {
+    font-family: var(--font-montserrat);
+    background-color: #050507;
+    color: #f3f4f6;
+  }
+
+  /* Custom scrollbar */
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #0a0a0f;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #2a151b;
+    border-radius: 3px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #E42518;
+  }
+}
+
+.font-bebas {
+  font-family: var(--font-bebas);
+}
+
+.font-cinzel {
+  font-family: var(--font-cinzel);
+}
+
+.font-montserrat {
+  font-family: var(--font-montserrat);
+}
+
+/* Stadium Spotlight & Aura effects */
+.stadium-glow-red {
+  background: radial-gradient(circle at 50% 30%, rgba(228, 37, 24, 0.18) 0%, rgba(17, 107, 49, 0.05) 50%, rgba(5, 5, 7, 0) 80%);
+}
+
+.stadium-beam {
+  background: conic-gradient(from 180deg at 50% 50%, rgba(228, 37, 24, 0.12) 0deg, transparent 60deg, rgba(234, 179, 8, 0.08) 120deg, transparent 180deg, rgba(228, 37, 24, 0.12) 240deg, transparent 300deg, rgba(228, 37, 24, 0.12) 360deg);
+}
+
+.glass-panel {
+  background: rgba(18, 18, 24, 0.7);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.glass-panel-hover:hover {
+  border-color: rgba(228, 37, 24, 0.4);
+  box-shadow: 0 0 25px rgba(228, 37, 24, 0.15);
+}
+
+.gold-gradient-text {
+  background: linear-gradient(135deg, #FFF9D2 0%, #D4AF37 50%, #AA771C 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.portugal-gradient-text {
+  background: linear-gradient(135deg, #ffffff 0%, #ff5252 45%, #E42518 80%, #009944 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.glow-text-red {
+  text-shadow: 0 0 25px rgba(228, 37, 24, 0.6), 0 0 50px rgba(228, 37, 24, 0.3);
+}
+
+.glow-text-gold {
+  text-shadow: 0 0 25px rgba(234, 179, 8, 0.6), 0 0 50px rgba(234, 179, 8, 0.3);
+}

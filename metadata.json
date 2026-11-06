@@ -1,0 +1,6 @@
+{
+  "name": "CR7 Legacy — The Immortal No. 7",
+  "description": "A cinematic interactive tribute to Cristiano Ronaldo's legendary international football career with Portugal, featuring an interactive timeline museum, verified numbers, the mentality room, and the No. 7 football skill challenge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
