@@ -186,4 +186,28 @@ All trademarks, names and respective imagery belong to their rightful owners.
 
 ## ❤️ Credits
 
-**Created
+**Created by:** [PeroX-Coder](https://github.com/PeroX-Coder)
+
+**Inspired by:** Cristiano Ronaldo 🇵🇹
+
+**Development Environment:** Google AI Studio
+
+**Special Dedication:** To the legend who taught millions to dream bigger, work harder and never give up.
+
+---
+
+<div align="center">
+
+  ### CRISTIANO RONALDO
+
+  # THE IMMORTAL NO. 7
+
+  **"THE SHIRT MAY CHANGE HANDS.  
+  THE NUMBER MAY BELONG TO THE FUTURE.  
+  BUT THE LEGACY WILL ALWAYS BELONG TO HISTORY."**
+
+  ❤️ 🇵🇹 🐐
+
+  **SIUUUUUUUU!**
+
+</div>
