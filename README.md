@@ -104,48 +104,6 @@ This project is developed with Google AI Studio and Gemini-assisted development.
 
 The implementation uses the technologies and frameworks selected during development.
 
-> Update this section with the actual frameworks, libraries and APIs used in the final application.
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/PeroX-Coder/CR7-Legacy.git
-```
-
-### 2. Navigate to the Project
-
-```bash
-cd CR7-Legacy
-```
-
-### 3. Install Dependencies
-
-```bash
-npm install
-```
-
-### 4. Start the Development Server
-
-```bash
-npm run dev
-```
-
-Open the local development URL provided by your terminal.
-
-*Note: These commands assume the project uses a compatible Node.js-based setup. Adjust them if your generated project uses a different framework.*
-
----
-
-## 🎯 Project Objectives
-
-- Celebrate Cristiano Ronaldo's international football legacy.
-- Create an engaging interactive football experience.
-- Combine storytelling, gaming and modern web development.
-- Experiment with AI-assisted application development.
-- Demonstrate creative possibilities with Google AI Studio.
-
 ## 🐐 The Inspiration
 
 Cristiano Ronaldo is more than a footballer to millions of people around the world.
