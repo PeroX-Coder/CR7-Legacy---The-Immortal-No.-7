@@ -88,22 +88,6 @@ Click the number **7 seven times** to unlock a special experience:
 
 > LEGENDS NEVER REALLY SAY GOODBYE.
 
-### 🎨 7. Premium Visual Experience
-- Dark cinematic interface.
-- Portugal-inspired red, black, white and gold palette.
-- Modern athletic typography.
-- Smooth animations and transitions.
-- Responsive desktop and mobile layouts.
-- Optional ambient stadium audio.
-
----
-
-## 🛠️ Technology
-
-This project is developed with Google AI Studio and Gemini-assisted development.
-
-The implementation uses the technologies and frameworks selected during development.
-
 ## 🐐 The Inspiration
 
 Cristiano Ronaldo is more than a footballer to millions of people around the world.
@@ -120,20 +104,6 @@ For millions of fans, he became an inspiration.
 
 ---
 
-## 🤝 Contributing
-
-Contributions, suggestions, improvements and creative ideas are welcome!
-
-If you would like to contribute:
-
-1. Fork this repository.
-2. Create a new branch.
-3. Make your improvements.
-4. Commit your changes.
-5. Open a Pull Request.
-
-Let's continue building something worthy of the No. 7.
-
 ## 📜 Disclaimer
 
 This is an independent, fan-made tribute project created for educational, entertainment and appreciation purposes.
@@ -147,8 +117,6 @@ All trademarks, names and respective imagery belong to their rightful owners.
 **Created by:** [PeroX-Coder](https://github.com/PeroX-Coder)
 
 **Inspired by:** Cristiano Ronaldo 🇵🇹
-
-**Development Environment:** Google AI Studio
 
 **Special Dedication:** To the legend who taught millions to dream bigger, work harder and never give up.
 
